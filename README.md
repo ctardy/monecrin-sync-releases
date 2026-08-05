@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/ctardy/monecrin-sync-releases?label=latest%20release" alt="Latest release"></a>
-  <a href="../../releases"><img src="https://img.shields.io/github/downloads/ctardy/monecrin-sync-releases/total" alt="Downloads"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/ctardy/monecrin-desktop-releases?label=latest%20release" alt="Latest release"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/downloads/ctardy/monecrin-desktop-releases/total" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows-0078D6" alt="Platform: Windows">
   <img src="https://img.shields.io/badge/macOS-planned-lightgrey" alt="macOS: planned">
   <img src="https://img.shields.io/badge/license-Proprietary-lightgrey" alt="License: Proprietary">

@@ -37,3 +37,16 @@ héberge les scripts `build-installer.sh`/`sign-release.sh`/`publish-release.sh`
 
 Détail complet : `CHANGELOG.md` infra (`/opt/.claude/`) du 05/08/2026, mémoire Claude Code
 `project_monecrin_repo_split_20260805`.
+
+---
+
+## Mémoire d'architecture centralisée
+
+Les décisions d'architecture et les discussions techniques transverses du projet sont archivées
+dans le dépôt core : `../monecrin-core/docs/discussions/` — fiches `/disc` rangées par module et
+par date, plus les synthèses dans `syntheses/`.
+
+Avant toute tâche d'architecture, tout refactoring ou toute analyse qui dépasse le périmètre de ce
+dépôt, **consulter ce dossier**. Les règles propres à ce dépôt, ci-dessus, restent prioritaires
+pour tout ce qui lui est spécifique. Le protocole complet `/disc` et `/synthese` est décrit dans
+`../monecrin-core/CLAUDE.md`.

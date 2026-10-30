@@ -105,7 +105,7 @@ and the app keeps running its current version).
 
 ## Platforms
 
-- **Windows** — Windows 10 and 11.
+- **Windows** — available.
 - **macOS** — macOS 13 (Ventura) or later, Apple silicon and Intel, since version 1.2.2 (October 2026).
 
 ## Support
